@@ -16,3 +16,4 @@ else
 echo "We have a tie of $offer1"
 echo "Request for an increase and choose the best new offer"
 fi
+Git training go on well
